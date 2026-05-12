@@ -1,8 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_security_contract,security.contract,model_security_contract,,1,1,1,1
-access_security_contract_line,security.contract.line,model_security_contract_line,,1,1,1,1
-access_security_client_site,security.client.site,model_security_client_site,,1,1,1,1
-access_security_guard_post,security.guard.post,model_security_guard_post,,1,1,1,1
-access_security_roster,security.roster,model_security_roster,,1,1,1,1
-access_security_attendance,security.attendance,model_security_attendance,,1,1,1,1
-access_security_incident,security.incident,model_security_incident,,1,1,1,1
