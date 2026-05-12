@@ -1,0 +1,15 @@
+<odoo>
+    <menuitem id="menu_security_root" name="Security Services" sequence="1"/>
+
+    <menuitem id="menu_security_contracts"
+              name="Contracts"
+              parent="menu_security_root"/>
+
+    <menuitem id="menu_security_sites"
+              name="Sites"
+              parent="menu_security_root"/>
+
+    <menuitem id="menu_security_operations"
+              name="Operations"
+              parent="menu_security_root"/>
+</odoo>
